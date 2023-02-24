@@ -13,6 +13,11 @@
   font-size: 15px;
   font-family: Courier;
 }
+
+.sidetext {
+  margin: 7px
+}
+
 .item3 { 
   grid-area: main;
   text-align: center;
