@@ -2,7 +2,7 @@ body {
   background-color: #124;
   color: #ddd;
   font-family: Helvetica;
-  margin: 10% 15%;
+  margin: 10% 5%;
 }
 
 .title {
@@ -22,7 +22,7 @@ body {
   Border: 1px solid;
   text-transform: UPPERCASE;
   text-align: center;
-  font-size:155%;
+  font-size: 155%;
   font-family: arial;
 }
 
