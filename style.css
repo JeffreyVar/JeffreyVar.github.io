@@ -8,17 +8,32 @@ body {
 .title {
   Border: 4px solid;padding 3px;
   text-align: center;
-  font-family: Helvetica
+  font-size:125%;
+  font-family: Helvetica;
 }
 
 .slogan {
   text-align: center;
+  font-size: 110%;
   font-family: arial;
 }
 
-.exp-header {
+.header1 {
   Border: 1px solid;
   text-transform: UPPERCASE;
-  font-family: arial;
   text-align: center;
+  font-size:155%;
+  font-family: arial;
+}
+
+.header4 {
+  font-size: 125%;
+}
+
+.header5{
+  font-size: 120%
+}
+
+.header6{
+  font-size:125%;
 }
