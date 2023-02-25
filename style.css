@@ -6,6 +6,12 @@
   font-family: Courier;
 }
 
+.profile .profile-image {
+    width: 100%;
+    border-radius: 50%;
+    border: 8px solid #1B2631;
+}
+
 .item2 { 
   grid-area: side;
   text-align: center;
