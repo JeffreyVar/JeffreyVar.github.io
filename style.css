@@ -8,6 +8,7 @@
 
 .profile .profile-image {
     width: 100%;
+    align: center;
     border-radius: 50%;
     border: 8px solid #222527;
 }
