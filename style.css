@@ -36,8 +36,8 @@
 .grid-container {
   display: grid;
   grid-template-areas:
-    'header header header header header header'
-    'side side main main main main';
+    'side header header header header header'
+    'side main main main main main';
   gap: 5px;
   background-color: #ddd;
   padding: 7px;
