@@ -4,18 +4,11 @@
   color: #ddd;
   font-size: 50px;
   font-family: Courier;
+  background-color: #123;
 }
 
 .name {
-  margin: 30px;
-}
-
-.item2 { 
-  grid-area: side;
-  text-align: center;
-  color: #ddd;
-  font-size: 15px;
-  font-family: Courier;
+  margin: 20px;
 }
 
 .profile .profile-image {
@@ -23,19 +16,28 @@
     align: center;
     border-radius: 50%;
     border: 8px solid #222527;
-    margin: 40px;
+    margin: 50px;
 }
 
-.sidetext {
-  margin: 7px
+.item2 { 
+  grid-area: side;
+  text-align: center;
+  color: #D6DBDF;
+  font-size: 15px;
+  font-family: Courier;
+  background-color: #123;
 }
 
 .item3 { 
   grid-area: main;
   text-align: center;
-  color: #ddd;
   font-size: 20px;
   font-family: Courier;
+  background-color: #123;
+}
+
+.sidetext {
+  margin: 7px;
 }
 
 .grid-container {
@@ -45,11 +47,10 @@
     'side main main main main main';
   gap: 5px;
   background-color: #ddd;
-  padding: 7px;
+  padding: 10px;
 }
 
 .grid-container > div {
-  background-color: #123;
   text-align: center;
   padding: 10px 0;
 }
@@ -63,28 +64,34 @@
 .largeheader {
   text-align: center;
   font-size: 35px;
+  color: #ddd;
   margin: 0 20px;
 }
 
 .header2 {
-  font-size: 25px;
   text-align: left;
+  font-size: 25px;
+  color: #ddd; 
   margin: 0% 20px;
 }
 
 .header3 {
   font-size: 20px;
   text-align: left;
+  color: #ddd;
   margin: 0% 20px;
 }
 
 .header4 {
   font-size: 18px;
   text-align: left;
+  color: #ddd;
   margin: 0% 20px;
 }
+
 .list{
   font-size: 15px;
   text-align: left;
+  color: #ddd;
   margin: 0% 20px;
 }
