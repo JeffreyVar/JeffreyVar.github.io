@@ -10,7 +10,8 @@
     width: 100%;
     align: center;
     border-radius: 50%;
-    border: 8px solid #222527;
+    border: 8px solid 
+    border-color: #222527;
 }
 
 .item2 { 
