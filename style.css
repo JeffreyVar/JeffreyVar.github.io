@@ -6,12 +6,8 @@
   font-family: Courier;
 }
 
-.profile .profile-image {
-    width: 100%;
-    align: center;
-    border-radius: 50%;
-    border: 8px solid 
-    border-color: #222527;
+.name {
+  margin: 10px;
 }
 
 .item2 { 
@@ -20,6 +16,15 @@
   color: #ddd;
   font-size: 15px;
   font-family: Courier;
+}
+
+.profile .profile-image {
+    width: 100%;
+    align: center;
+    border-radius: 50%;
+    border: 8px solid 
+    border-color: #222527;
+    margin: 10px;
 }
 
 .sidetext {
