@@ -83,6 +83,12 @@
   height: 21px;
 }
 
+.dumbbell {
+  float: left;
+  width: 23px;
+  height: 20px; 
+}
+
 .largeheader {
   text-align: center;
   font-size: 35px;
