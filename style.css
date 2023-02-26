@@ -65,6 +65,24 @@
   margin: 7px;
 }
 
+.envelope {
+  float: left;
+  width: 20px;
+  height: 15px;
+}
+
+.phone {
+  float: left;
+  width: 20px;
+  height: 21px;
+}
+
+.pin {
+  float: left;
+  width: 14px;
+  height: 21px;
+}
+
 .largeheader {
   text-align: center;
   font-size: 35px;
