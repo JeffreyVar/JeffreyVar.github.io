@@ -57,8 +57,10 @@
 
 .slogan {
   text-align: center;
-  font-size: 16px;
+  font-size: 15px;
   font-family: Courier;
+  font-weight: bold;
+  margin: 7px;
 }
 
 .largeheader {
