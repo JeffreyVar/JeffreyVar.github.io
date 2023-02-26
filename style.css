@@ -8,16 +8,18 @@
 }
 
 .name {
+  font-weight: bold;
   margin: 40px;
 }
 
-.profile .profile-image {
-    width: 100%;
-    align: center;
-    border-radius: 75%;
-    border: 8px solid; 
-    border-color: #222527;
-    margin: 35px;
+.profile-image {
+  width: 200px;
+  height: 200px;
+  align: center;
+  border-radius: 75%;
+  border: 8px solid; 
+  border-color: #222527;
+  margin: 35px;
 }
 
 .item2 { 
@@ -92,6 +94,7 @@
 .largeheader {
   text-align: center;
   font-size: 35px;
+  font-weight: bold;
   color: #ddd;
   margin: 0 20px;
 }
@@ -99,6 +102,7 @@
 .header2 {
   text-align: left;
   font-size: 25px;
+  font-weight: bold;
   color: #ddd; 
   margin: 0% 20px;
 }
