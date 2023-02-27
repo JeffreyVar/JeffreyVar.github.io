@@ -56,12 +56,7 @@
     'side main main main main main';
   gap: 5px;
   background-color: #ddd;
-  padding: 10px;
-}
-
-.grid-container > div {
-  text-align: center;
-  padding: 10px 0;
+  padding: 10px 10px;
 }
 
 .slogan {
