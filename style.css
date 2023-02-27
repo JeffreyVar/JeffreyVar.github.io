@@ -1,11 +1,12 @@
 .body {
   font-family: Courier;
+  background-color: #D6DBDF;
 }
 
 .item1 { 
   grid-area: header;
   text-align: center;
-  color: #ddd;
+  color: #D6DBDF;
   font-size: 50px;
   font-family: Courier;
   background-color: #123;
@@ -13,6 +14,7 @@
 
 .name {
   font-weight: bold;
+  color: #D6DBDF;
   margin: 40px;
 }
 
@@ -55,7 +57,7 @@
     'side header header header header header'
     'side main main main main main';
   gap: 5px;
-  background-color: #ddd;
+  background-color: #D6DBDF;
   padding: 10px 10px;
 }
 
@@ -95,7 +97,7 @@
   text-align: center;
   font-size: 35px;
   font-weight: bold;
-  color: #ddd;
+  color: #D6DBDF;
   margin: 0 20px;
 }
 
@@ -103,21 +105,21 @@
   text-align: left;
   font-size: 25px;
   font-weight: bold;
-  color: #ddd; 
+  color: #D6DBDF; 
   margin: 0% 20px;
 }
 
 .header3 {
   font-size: 20px;
   text-align: left;
-  color: #ddd;
+  color: #D6DBDF;
   margin: 0% 20px;
 }
 
 .header4 {
   font-size: 18px;
   text-align: left;
-  color: #ddd;
+  color: #D6DBDF;
   margin: 0% 20px;
 }
 
@@ -125,6 +127,6 @@
   font-size: 15px;
   text-align: left;
   font_family: Courier New;
-  color: #ddd;
+  color: #D6DBDF;
   margin: 0% 20px;
 }
